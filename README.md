@@ -1,4 +1,4 @@
-# robinhood-bookmarklet-total-percentage-col (It's a hack job)
+# robinhood-bookmarklet-total-percentage-change-col (It's a hack job)
 Calculates total percentage return, adds corresponding column to the stocks table, and sorts by it. 
 It's not perfect as it has to manipulate Robinhood's rendered react results but it does the job. 
 
@@ -10,5 +10,5 @@ Ideally RH adds features to replace this script because this is essentially a di
 - Breaks the linking and sorting abilities on the other columns (Just refesh to  get them back)
 
 # Example
-![Example of robinhood total percentage bookmarklet](https://github.com/0h4crying0utloud/robinhood-bookmarklet-total-percentage-col/blob/master/example.png?raw=true)
+![Example of robinhood total percentage change bookmarklet](https://github.com/0h4crying0utloud/robinhood-bookmarklet-total-percentage-change-col/blob/master/example.png?raw=true)
 
