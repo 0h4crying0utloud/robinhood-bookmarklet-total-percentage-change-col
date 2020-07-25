@@ -3,7 +3,7 @@ Calculates total percentage return, adds corresponding column to the stocks tabl
 It's not perfect as it has to manipulate Robinhood's rendered react results but it does the job. 
 
 # To use
-This is a bookmarklet so you just create a new "bookmark" in your web browser and paste this code in the URL field. Then when you're on the account's stock table page, just hit this bookmark button and the column should be added. 
+This is a bookmarklet so you just create a new "bookmark" in your web browser and paste [this code](https://raw.githubusercontent.com/0h4crying0utloud/robinhood-bookmarklet-total-percentage-change-col/master/rh-bookmarklet.js) in the URL field. Then when you're on the account's stock table page, just hit this bookmark button and the column should be added. 
 
 # Known issues
 Ideally RH adds features to replace this script because this is essentially a dirty hack that is quite brittle. 
