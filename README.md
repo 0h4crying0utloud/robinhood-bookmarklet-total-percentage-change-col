@@ -9,6 +9,6 @@ This is a bookmarklet so you just create a new "bookmark" in your web browser an
 Ideally RH adds features to replace this script because this is essentially a dirty hack that is quite brittle. 
 - Breaks the linking and sorting abilities on the other columns (Just refesh to  get them back)
 
-
+# Example
 ![Example of robinhood total percentage bookmarklet](https://github.com/0h4crying0utloud/robinhood-bookmarklet-total-percentage-col/blob/master/example.png?raw=true)
 
